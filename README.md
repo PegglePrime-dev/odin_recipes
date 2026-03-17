@@ -1,5 +1,5 @@
 # odin_recipes
 Wiederholung der HTML-Grundlagen anhand eines einfachen Rezepts
-<img>-Tags einfügen
-<a>-Tag für Verlinkungen
-<ul> und <ol> für Listen
+<br>&lt;img&gt;-Tags einfügen
+<br>&lt;a&gt;-Tag für Verlinkungen
+<br>&lt;ul&gt; und &lt;ol&gt; für Listen
